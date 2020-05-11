@@ -1,0 +1,37 @@
+null,district,active,confirmed,deceased,delta,notes,recovered,State
+218,Ahmednagar,27,63,3,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,33,Maharashtra
+219,Akola,122,159,11,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,26,Maharashtra
+220,Amravati,49,82,12,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,21,Maharashtra
+221,Aurangabad,503,568,13,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,52,Maharashtra
+222,Bid,0,1,0,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,1,Maharashtra
+223,Buldana,-3,24,1,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",Reconciled as per MH bulleting 24/04,26,Maharashtra
+224,Chandrapur,2,4,0,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,2,Maharashtra
+225,Dhule,33,54,6,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,15,Maharashtra
+226,Gondiya,0,1,0,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,1,Maharashtra
+227,Hingoli,56,59,0,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,3,Maharashtra
+228,Jalgaon,154,178,19,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,5,Maharashtra
+229,Jalna,11,12,0,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",Reconciled as per MH bulleting 24/04,1,Maharashtra
+230,Kolhapur,10,19,1,"{'confirmed': 0, 'deceased': 0, 'recovered': 1}",null,8,Maharashtra
+231,Latur,17,26,1,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,8,Maharashtra
+232,Greater Bombay,10935,13739,508,"{'confirmed': 0, 'deceased': 0, 'recovered': 90}",null,2296,Maharashtra
+233,Nagpur,183,251,2,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,66,Maharashtra
+234,Nanded,40,43,3,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,0,Maharashtra
+235,Nandurbar,11,22,2,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,9,Maharashtra
+236,Nashik,578,659,34,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,47,Maharashtra
+237,Osmanabad,0,3,0,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,3,Maharashtra
+238,Palghar,137,263,12,"{'confirmed': 0, 'deceased': 0, 'recovered': 9}",null,114,Maharashtra
+239,Parbhani,0,2,1,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,1,Maharashtra
+240,Pune,1599,2679,155,"{'confirmed': 0, 'deceased': 0, 'recovered': 4}",null,925,Maharashtra
+241,Raigarh,182,230,45,"{'confirmed': 0, 'deceased': 0, 'recovered': 2}",null,3,Maharashtra
+242,Ratnagiri,30,36,1,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,5,Maharashtra
+243,Sangli,10,37,1,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,26,Maharashtra
+244,Satara,100,119,2,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,17,Maharashtra
+245,Sindhudurg,4,6,0,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,2,Maharashtra
+246,Solapur,210,250,11,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,29,Maharashtra
+247,Thane,2058,2448,21,"{'confirmed': 0, 'deceased': 0, 'recovered': 6}",null,369,Maharashtra
+248,Washim,0,1,0,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,3,Maharashtra
+249,Yavatmal,56,96,0,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",null,40,Maharashtra
+250,Other States,27,36,9,"{'confirmed': 0, 'deceased': 0, 'recovered': 0}",Cases from other States/UTs,0,Maharashtra
+251,Gondiya,0,1,0,,,1,Maharashtra
+251,Wardha,0,0,0,,,0,Maharashtra
+252,Bhandara,1,10,0,,,0,Maharashtra
